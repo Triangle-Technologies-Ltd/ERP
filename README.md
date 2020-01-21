@@ -1,5 +1,16 @@
 # WP ERP
 
+Developer: <b>SAAD</b> <br>
+Email: saad@triangeltech.com<br>
+LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
+Facebook: https://www.facebook.com/raselhasandurjoy<br>
+Company WEB: https://triangeltech.com/ <br>
+Phone: +8801904654712<br>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Android-TV-Live-Stream)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 An open-source ERP (Enterprise Resource Planning) solution for WordPress. View [documentation](https://wperp.com/documentation/?utm_medium=referral&utm_source=github&utm_campaign=WP+ERP+Readme&utm_content=Home+Page)
 
 ## Core Components
@@ -44,11 +55,3 @@ An open-source ERP (Enterprise Resource Planning) solution for WordPress. View [
 * CD into folder `cd wp-erp` and run `composer install`
 * Lastly run `composer dump-autoload -o`
 
-
-## Who's behind?
-
-* Project Lead: [Tareq Hasan](https://github.com/tareq1988)
-* Core Developers: [Edi Amin](https://github.com/ediamin), [Towhidul Islam Chowdhury](https://github.com/itowhid06), [Jahidur Rahman Nadim](https://github.com/nadim1992)
-* Contributors: [List of Contributors](https://github.com/wp-erp/wp-erp/graphs/contributors)
-
-An open-source project by [weDevs](https://wedevs.com/?utm_source=github&utm_medium=credit&utm_term=opensource&utm_content=wperp&utm_campaign=product)
